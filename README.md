@@ -1,5 +1,5 @@
 # Capstone_project
-My Task Assignment, IBM Professional Data Science Certificate 
+• My Task Assignment, IBM Professional Data Science Certificate 
 • Applied Data Science Capstone Course
 
 Note: GitHub doesn't work to show the map and image. You can read my notebook by copy link of GitHub file. 
