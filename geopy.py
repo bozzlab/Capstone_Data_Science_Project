@@ -9,7 +9,7 @@ def do_geocode(address):
         return do_geocode(address)
 
 
-for index, row in penn_data.iterrows():
+for index, row in data.iterrows():
     try:
         #address_1 = row['Borough'] 
         #address_2 = address_1.split(',')[-1]
