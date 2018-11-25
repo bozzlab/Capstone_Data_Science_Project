@@ -10,3 +10,6 @@ https://nbviewer.jupyter.org/#yourlink
 
 #### Capstone_Module 3 
 https://nbviewer.jupyter.org/github/bozzlab/Capstone_project/blob/master/Capstone_Module_3%20.ipynb
+
+#### IBM Professional Data Science Certificate
+https://github.com/bozzlab/IBM-Data-Science-Pro-Assignment
